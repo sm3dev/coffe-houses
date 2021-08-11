@@ -1,0 +1,16 @@
+.block--center-align {
+    text-align: center;
+}
+
+.list {
+    display: flex;
+    width: 100%;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}
+
+.shop {
+    width: 240px;
+    /* border: solid black 2px; */
+    margin-inline: 1rem;
+}
